@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,gBACE,kBACF,CAEA,eACE,kBACF","file":"style.782ee17d.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\r\n.inputsDistance {\r\n  margin-bottom: 10px;\r\n}\r\n\r\n.blockDistance {\r\n  margin-bottom: 20px;\r\n}\r\n"]}
